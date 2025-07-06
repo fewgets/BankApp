@@ -1,2 +1,2 @@
-key = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InFnYm9jenVhYXZtbXVodmFwZ2JzIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTE3MzkyODYsImV4cCI6MjA2NzMxNTI4Nn0.zE1l7HDxGdINSYFad-rHcILkv9tlzt8DmL_h-hWczJc" # Replace with your Supabase key
-url = "https://qgboczuaavmmuhvapgbs.supabase.co" # Replace with your Supabase url
+key = "" # Replace with your Supabase key
+url = "" # Replace with your Supabase url
